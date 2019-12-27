@@ -1,0 +1,14 @@
+{
+  "packageName": "com.miniapp.helloworld",
+  "appName": "Helloworld",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "minSdkVersion": 100,
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "fullScreen":true,
+    "backgroundColor": "#ffffff"
+  }
+}
