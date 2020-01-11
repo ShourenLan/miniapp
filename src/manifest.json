@@ -1,9 +1,9 @@
 {
-  "packageName": "com.miniapp.helloworld",
+  "appID": "com.miniapp.helloworld",
   "appName": "Helloworld",
   "versionName": "1.0.0",
   "versionCode": 1,
-  "minSdkVersion": 100,
+  "minPlatformVersion": 100,
   "pages": [
     "pages/index/index"
   ],
